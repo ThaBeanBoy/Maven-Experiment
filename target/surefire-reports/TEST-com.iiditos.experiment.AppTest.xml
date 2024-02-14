@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.iiditos.experiment.AppTest" time="0.054" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\TG Chipoyera\Documents\java-projects\maven-experiment\maven-experiment\target\test-classes;c:\Users\TG Chipoyera\Documents\java-projects\maven-experiment\maven-experiment\target\classes;C:\Users\TG Chipoyera\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\TG Chipoyera\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Microsoft"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://www.microsoft.com"/>
+    <property name="user.timezone" value="Africa/Johannesburg"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="ZA"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Microsoft\jdk-11.0.20.8-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\TGCHIP~1\AppData\Local\Temp\surefire13937636399154508691\surefirebooter17079243510811233406.jar C:\Users\TG Chipoyera\AppData\Local\Temp\surefire13937636399154508691 2024-02-14T12-36-23_366-jvmRun1 surefire14381291164315593511tmp surefire_04988512670257280808tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\TG Chipoyera\Documents\java-projects\maven-experiment\maven-experiment\target\test-classes;c:\Users\TG Chipoyera\Documents\java-projects\maven-experiment\maven-experiment\target\classes;C:\Users\TG Chipoyera\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\TG Chipoyera\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\TG Chipoyera"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-07-18"/>
+    <property name="java.home" value="C:\Program Files\Microsoft\jdk-11.0.20.8-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\TG Chipoyera\Documents\java-projects\maven-experiment\maven-experiment"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\TGCHIP~1\AppData\Local\Temp\surefire13937636399154508691\surefirebooter17079243510811233406.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.20+8-LTS"/>
+    <property name="user.name" value="TG Chipoyera"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Microsoft-8035250"/>
+    <property name="localRepository" value="C:\Users\TG Chipoyera\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/microsoft/openjdk/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\TGCHIP~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.20"/>
+    <property name="user.dir" value="c:\Users\TG Chipoyera\Documents\java-projects\maven-experiment\maven-experiment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Microsoft\jdk-11.0.20.8-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Microsoft\jdk-11.0.20.8-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\cpp-compiler\mingw64\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\Users\TG Chipoyera\Downloads\mongosh-1.6.0-win32-x64\mongosh-1.6.0-win32-x64\bin;D:\apache-maven-3.9.1\bin;C:\tools\dart-sdk\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.9.6\bin;C:\Users\TG Chipoyera\.cargo\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\cpp-compiler\mingw64\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Go\bin;C:\Users\TG Chipoyera\Downloads\mongosh-1.6.0-win32-x64\mongosh-1.6.0-win32-x64\bin;C:\Users\TG Chipoyera\AppData\Local\Microsoft\WindowsApps;C:\Users\TG Chipoyera\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\TG Chipoyera\.dotnet\tools;C:\Program Files\MongoDB\Server\6.0\bin\mongod.exe;C:\Users\TG Chipoyera\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\TG Chipoyera\AppData\Local\Microsoft\WindowsApps;C:\Users\TG Chipoyera\go\bin;C:\Program Files\MongoDB\mongosh-1.6.0-win32-x64(1)\mongosh-1.6.0-win32-x64\bin;C:\tools\dart-sdk\bin;C:\Users\TG Chipoyera\AppData\Roaming\Pub\Cache\bin;C:\Users\TG Chipoyera\.dotnet\tools;C:\Users\TG Chipoyera\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Azure Data Studio\bin;C:\Users\TG Chipoyera\AppData\Local\Microsoft\WinGet\Links;C:\Users\TG Chipoyera\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Microsoft"/>
+    <property name="java.vm.version" value="11.0.20+8-LTS"/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.iiditos.experiment.AppTest" time="0.006"/>
+</testsuite>
