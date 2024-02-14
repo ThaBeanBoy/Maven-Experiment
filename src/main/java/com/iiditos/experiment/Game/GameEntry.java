@@ -38,4 +38,9 @@ public class GameEntry {
     public void setScore(int score){
         this.score = score;
     }
+
+    @Override
+    public String toString() {
+        return String.format("name: %s | score: %d", this.name, this.score);
+    }
 }
